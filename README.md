@@ -1,5 +1,7 @@
 # Customer Churn Prediction with SHAP Explainability
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b)](https://churn-prediction-hutxygxbv2wyrsv6juuuja.streamlit.app/)
+
 > Predicting which telecom customers will churn using XGBoost,
 > with SHAP-based explainability for business decision support.
 
